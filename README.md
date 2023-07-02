@@ -51,3 +51,6 @@ I'm trying again with storcli but had no time to experiment more.
 I installed a stock Ubuntu server on the SSD with SSH.
 
 from there I installed docker, ZFS, pihole + pivpn, dynddns 
+it's close from the instruction on another NAS build i did ( ARM based)
+- https://github.com/nathmo/Quartz64_NAS
+
