@@ -30,14 +30,12 @@ for the power supply I have 2 variant :
 
 # RAM
 the official specs says that the J5040 only support up 8Gb or RAM. but it works with 32 Gb too
-you just need to have the right kind of ram stick. I could find a few thread online that reported that 
-theses two model worked :
-
-- corsair vengeance 2 x 16gb 2400 mhz ddr4 : https://www.digitec.ch/en/s1/product/corsair-vengeance-2-x-16gb-2400-mhz-ddr4-ram-so-dimm-ram-5784604
+you just need to have the right kind of ram stick. I could find a few thread+user feed back online that reported that 
+theses this model worked :
 
 - gskill ripjaws 2 x 16gb 2400 mhz ddr4 : https://www.digitec.ch/en/s1/product/gskill-ripjaws-2-x-16gb-2400-mhz-ddr4-ram-so-dimm-ram-11230127
 
-when I plugged the ripjaws in the motherboard it didnt work. I had to remove the battery, short the CMOS reset jumper and wait a while (like a minute or two for the first boot)
+when I plugged the ripjaws in the motherboard it didnt work the first time. I had to remove the battery, short the CMOS reset jumper and wait a while (like a minute or two for the first boot)
 after a few trial it booted and could see the 32 Gb in the bios
 
 # LSI Raid card
